@@ -1,7 +1,6 @@
 {
-  "name": "PerfX MultiThread",
-  "version": "7.0",
-  "github_repo": "https://github.com/LuckyProjects/my-projects",
-  "author": "LuckyProjects",
-  "description": "perfx update script"
+  "versionCode": 100,
+  "version": "v007",
+  "zipUrl": "https://github.com/LuckyProjects/my-projects/releases/tag/Modules",
+  "changelog": "https://raw.githubusercontent.com/LuckyProjects/my-projects/main/CHANGELOG.md"
 }
