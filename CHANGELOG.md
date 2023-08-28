@@ -1,20 +1,20 @@
-# Changelog Version 7.0
+# Changelog Version FV8
 
-– oom_reaper added 
+– oom_reaper improved and corrected & kill apps
 
-– multi thread fixed 
+– code errors that ended up breaking play services fixed
 
-– Improved read and write speed (i/o)
+– Improved memory compression, fast task & zram params
 
-– Wasted ram memory cleaner 
+– updated and improved codes
 
-– Code fixes 
+– version 7.0 latency fixed, it was because of 12 lines over kernel params
 
-– Usability additions
+– i/o sched existing codes improvm
 
-– Kernel SU Fix
+– Kernel SU removed
 
-# Advanced
+# Notice
 
-– To fix the incompatibility with the su kernel it was necessary to add zygisk to the module so now it needs to be enabled for it to work
+– Unfortunately due to incompatibility issues, I had to remove support for ksu, it ended up giving me a lot of trouble, so I decided to remove it and stop using it only for vanilla magisk
 
